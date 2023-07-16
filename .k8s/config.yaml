@@ -1,0 +1,7 @@
+vault_address: ""
+vault_client_timeout: 60s
+vault_token: ""
+vault_mount_path: ""
+vault_cert_paths:
+  - path_one
+  - path_two

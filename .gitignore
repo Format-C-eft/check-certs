@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+/.run
+.DS_STORE
+.DS_Store
+/.k8s/config_local.yaml
+/bin
+coverage.out
+/vault
